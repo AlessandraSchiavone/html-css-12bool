@@ -1,11 +1,10 @@
-body{
-    background: linear-gradient(45deg, #6387FA,#5E94F8);
-    height: 700px;
-}
-.container{ 
-    margin: 0 auto;
-}
 
+.box{
+    position:relative;
+    background-color:#6285F9;
+    width:80%;
+    margin: 30px auto;
+}
 .container h1{
     text-shadow: 2px 2px white;
     text-align: center;
@@ -14,23 +13,22 @@ body{
     font-family: 'Nerko One', cursive;
 }
 .text-white{
-    margin-top:40px;
-    width:60%;
-    font-family: 'Nerko One', cursive;
+    font-family: 'New Tegomin', serif;
+    font-weight: 900;;
     color:white;
     text-transform: uppercase;
     font-size: 24px;
 }
-.col-6{
+.col-6, .col-5{
     margin-top: 40px;
 }
 .col-12 img{
     width:100%;
-    height:85px;
+    height:50px;
+    margin-bottom:-3px;
 }
-.col-2 img{
-    margin-bottom:-4px;
-    
+.col-4 img{
+    margin-bottom:-4px;  
 }
 .third{
     margin-top: 50px;
