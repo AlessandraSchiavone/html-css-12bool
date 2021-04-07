@@ -1,0 +1,30 @@
+[class*="col-"]{
+    position: relative;
+    height:100%;  
+}
+.lightpink {
+    border: 1px solid black;
+    background-color: #FFC0CB;   
+}
+.pink {
+    border: 1px solid white;
+    background-color:#F07F80;
+}
+.padding{
+    padding:5px;
+}
+.border-black{
+    border-right: 2px solid black;
+}
+
+/*bordi*/
+.border-none{
+    border: none;
+}
+.text{
+    font-size: 18px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
