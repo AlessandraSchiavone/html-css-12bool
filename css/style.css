@@ -21,11 +21,6 @@
 .border-black{
     border-right: 2px solid black;
 }
-
-/*bordi*/
-.border-none{
-    border: none;
-}
 .text{
     font-size: 18px;
     position:absolute;
